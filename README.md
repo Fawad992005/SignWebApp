@@ -13,4 +13,19 @@ No installation is required! Simply download the project files and open the `ind
 ## Usage  
 1. Open the app in your web browser.  
 2. Draw your signature using your mouse or touchscreen.  
-3. Click the "Save" button to download your signature as a file.  
+3. Click the "Save" button to download your signature as a file.
+
+Technology Stack
+HTML: For the app's structure.
+CSS: For styling the interface.
+JavaScript: For interactive functionality, including the canvas and file-saving features.
+
+
+Contributions
+Contributions are welcome! If you’d like to improve this app, feel free to fork the repository and submit a pull request.
+
+License
+This project is licensed under the MIT License. Feel free to use, modify, and distribute it as you wish.
+
+Contact
+For any queries or suggestions, reach out to me via LinkedIn or email.
